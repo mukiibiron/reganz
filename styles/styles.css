@@ -1,0 +1,28 @@
+
+*{
+        margin: 0;
+        padding: 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        box-sizing:border-box;
+
+}
+
+.footer{
+        margin-top: 10px;
+        width: 10px;
+        padding: 10px 15%;
+}
+.footer div{
+        text-align: center;
+}
+.col-lg-4{
+        flex-grow:border-box ;
+}
+form{
+        color:rgb(55, 245, 30);
+}
+
+
+    
+    
+    
